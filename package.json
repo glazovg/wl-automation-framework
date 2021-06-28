@@ -1,0 +1,19 @@
+{
+  "name": "wl-automation-framework",
+  "version": "1.0.0",
+  "description": "Testcafe automation framework, exercise 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx testcafe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glazovg/wl-automation-framework.git"
+  },
+  "author": "Guillermo Lazo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glazovg/wl-automation-framework/issues"
+  },
+  "homepage": "https://github.com/glazovg/wl-automation-framework#readme"
+}
