@@ -18,5 +18,8 @@
   "homepage": "https://github.com/glazovg/wl-automation-framework#readme",
   "dependencies": {
     "testcafe": "^1.14.2"
+  },
+  "devDependencies": {
+    "testcafe-reporter-html": "^1.4.6"
   }
 }
