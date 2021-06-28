@@ -1,2 +1,6 @@
 #Dependencies directory
 node_modules
+#Reports
+reports
+#Envdot file
+.env

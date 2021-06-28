@@ -20,6 +20,7 @@
     "testcafe": "^1.14.2"
   },
   "devDependencies": {
+    "dotenv": "^10.0.0",
     "testcafe-reporter-html": "^1.4.6"
   }
 }

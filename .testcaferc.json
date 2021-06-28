@@ -1,13 +1,20 @@
 {
     "scr": "**/*.test.js",
-    "browsers": ["chrome"],
+    "browsers": [
+        "chrome"
+    ],
     "skipJSErrors": true,
     "skipUncaughtErrors": true,
     "selectorTimeOut": 10000,
     "assertionTimeout": 10000,
     "pageLoadTimeOut": 10000,
-    "reporter": {
-        "name": "html",
-        "output": "tests/reports/report.html"
-    }
+    "reporter": [
+        {
+            "name": "spec"
+        },
+        {
+            "name": "html",
+            "output": "reports/report.html"
+        }
+    ]
 }
