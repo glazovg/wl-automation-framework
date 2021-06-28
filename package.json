@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/glazovg/wl-automation-framework/issues"
   },
-  "homepage": "https://github.com/glazovg/wl-automation-framework#readme"
+  "homepage": "https://github.com/glazovg/wl-automation-framework#readme",
+  "dependencies": {
+    "testcafe": "^1.14.2"
+  }
 }
